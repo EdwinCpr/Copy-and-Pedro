@@ -11,6 +11,10 @@
     color: #A1A9B9;
 }
 
+.text-grey{
+    color: #424651
+}
+
 .padding1rem {
     padding: 1rem 0rem;
 }
@@ -46,4 +50,10 @@
 
 .two {
     background-color: #49556B;
+}
+
+/* ****************************** three ******************************/
+
+.three {
+    background-color: #fff;
 }
