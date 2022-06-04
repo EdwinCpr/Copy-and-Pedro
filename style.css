@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+/****************************** Universal ***************************/
+.text-white {
+    color: #fff;
+}
+
+.text-light {
+    color: #A1A9B9;
+}
+
+.padding1rem {
+    padding: 1rem 0rem;
+}
+
+.padding-box {
+    padding: 2rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.image {
+    width: 65%;
+    border-radius: 5rem;
+}
+
+/******************************** One ***************************/
+.testimonials-grid {
+    display: grid;
+    grid-template-columns: 2fr 1fr 1fr;
+}
+
+.one {
+    background-color: #733FC8;
+}
+
+.image-daniel img{
+    border: 3px solid #A880E7;
+}
+
+/****************************** Two *******************************/
+
+.two {
+    background-color: #49556B;
+}
